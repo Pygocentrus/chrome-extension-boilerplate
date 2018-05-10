@@ -1,8 +1,8 @@
 {
-  "name": "social-killer",
+  "name": "barebone-chrome-extension",
   "version": "0.1.0",
   "manifest_version": 2,
-  "description": "Kills every social counters",
+  "description": "Barebone Chrome extension",
   "homepage_url": "https://pygocentrus.github.com",
   "content_scripts": [
     {

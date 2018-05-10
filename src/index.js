@@ -1,3 +1,3 @@
 (function() {
-	console.log('Injected!');
+  console.log('Injected!');
 })();
